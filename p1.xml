@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="samp.xsl"?>
+<invoice>
+    <accountInvoiceElements>
+        <accountId>167</accountId>
+        <accountInvoiceElements>
+            <invoiceElements>
+                <invoiceElementName>T2M-15520-4g VOIP Services</invoiceElementName>
+                <lineItems>
+                    <amount>10.00</amount>
+                    <chargeDescription>Recurring Charges</chargeDescription>
+                    <chargeId>15702</chargeId>
+                    <chargeMode>3</chargeMode>
+                    <chargeType>Monthly - Recurring</chargeType>
+                    <cycleUnit>1</cycleUnit>
+                    <dateFormat>MM/dd/yyyy</dateFormat>
+                    <description>Subscription Fee</description>
+                    <discountAmount>0.00</discountAmount>
+                    <endDate>07/15/2021</endDate>
+                    <eventDate>06/16/2021</eventDate>
+                    <eventId>1384018581339419662</eventId>
+                    <eventQuantity>1</eventQuantity>
+                    <eventType>Recurring</eventType>
+                    <inversionControl>1</inversionControl>
+                    <isoEventDate>2021-06-16 04:55:43</isoEventDate>
+                    <isoStartDate>2021-06-16 00:00:00</isoStartDate>
+                    <oneTimeEvent>false</oneTimeEvent>
+                    <orderId>777737987004889804</orderId>
+                    <planDescription>4g VOIP Services - Cap 1000 Minutes</planDescription>
+                    <priceplanDescription>Cap 1000 Minutes</priceplanDescription>
+                    <priceplanName>Cap 1000 Minutes</priceplanName>
+                    <productCategories>
+                        <category>4g</category>
+                    </productCategories>
+                    <productCode>PROD11902</productCode>
+                    <productDescription>4g VOIP Services</productDescription>
+                    <productName>4g VOIP Services</productName>
+                    <prorationScale>1.0000000000</prorationScale>
+                    <quantity>1</quantity>
+                    <rank>0</rank>
+                    <ruleBased>2</ruleBased>
+                    <serviceInstanceActivationStart>11/16/2016</serviceInstanceActivationStart>
+                    <source>Actvation Utility</source>
+                    <startDate>06/16/2021</startDate>
+                    <subsOfferActivationStart>11/16/2016</subsOfferActivationStart>
+                    <subsOfferId>17403</subsOfferId>
+                    <subscriptionIdentifier>T2M-15520-4g VOIP Services</subscriptionIdentifier>
+                    <taxAmount>1.35</taxAmount>
+                    <taxLineItem>
+                        <lineItems>
+                            <code>302</code>
+                            <description>COUNTY SALES TAX</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.47</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <lineItems>
+                            <code>302</code>
+                            <description>METRO COMMUTER TRANS. DISTRICT</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.04</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <lineItems>
+                            <code>417</code>
+                            <description>NY MTA SURCHG ON EXCISE TAX</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.06</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <lineItems>
+                            <code>302</code>
+                            <description>STATE SALES TAX</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.42</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <lineItems>
+                            <code>060</code>
+                            <description>FEDERAL COST RECOVERY FEE</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.10</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <lineItems>
+                            <code>127</code>
+                            <description>NY STATE EXCISE TAX</description>
+                            <groupCode>NY</groupCode>
+                            <oneTimeEvent>false</oneTimeEvent>
+                            <rank>0</rank>
+                            <taxAmount>0.26</taxAmount>
+                            <taxConfig>SureTax</taxConfig>
+                        </lineItems>
+                        <taxLine>COUNTY SALES TAX - $0.47, METRO COMMUTER TRANS. DISTRICT - $0.04, NY MTA SURCHG ON EXCISE TAX - $0.06, STATE SALES TAX - $0.42, FEDERAL COST RECOVERY FEE - $0.10, NY STATE EXCISE TAX - $0.26</taxLine>
+                        <totalTax>1.35</totalTax>
+                    </taxLineItem>
+                    <totalAmount>10.00</totalAmount>
+                    <totalCharge>11.35</totalCharge>
+                    <unRoundedQuantity>1.0000000000</unRoundedQuantity>
+                    <unitPrice>0</unitPrice>
+                    <uomDescription>Unit</uomDescription>
+                    <uomName>Unit</uomName>
+                </lineItems>
+                <subscriptionId>17103</subscriptionId>
+                <subscriptionIdentifier>T2M-15520-4g VOIP Services</subscriptionIdentifier>
+                <totalAmount>11.35</totalAmount>
+                <totalDue>10.00</totalDue>
+                <totalTax>1.35</totalTax>
+            </invoiceElements>
+            <isParent>0</isParent>
+            <pretaxTotal>10.00</pretaxTotal>
+            <shipTo>
+                <addressId>168</addressId>
+                <addressLine1>410th ave</addressLine1>
+                <addressLine2>CC</addressLine2>
+                <city>Albany</city>
+                <companyName>Joe Jenkins</companyName>
+                <countryName>UNITED STATES</countryName>
+                <postalCode>10001</postalCode>
+                <state>NEWYORK</state>
+            </shipTo>
+            <shippingAddId>168</shippingAddId>
+            <taxTotal>1.35</taxTotal>
+            <totalAmount>11.35</totalAmount>
+        </accountInvoiceElements>
+        <accountName>Joe Jenkins</accountName>
+        <accountNumber>SR9140</accountNumber>
+        <billTimeLineItems>
+            <billTimeTax>
+                <lineItems>
+                    <code>E.TAX</code>
+                    <description>Entertainment Tax</description>
+                    <oneTimeEvent>false</oneTimeEvent>
+                    <rank>0</rank>
+                    <taxAmount>0.56</taxAmount>
+                </lineItems>
+                <lineItems>
+                    <code>S.TAX</code>
+                    <description>Service Tax</description>
+                    <oneTimeEvent>false</oneTimeEvent>
+                    <rank>0</rank>
+                    <taxAmount>1.40</taxAmount>
+                </lineItems>
+                <taxCode>AP_TAX</taxCode>
+                <totalTax>1.96</totalTax>
+            </billTimeTax>
+            <billTimeTotal>1.96</billTimeTotal>
+        </billTimeLineItems>
+        <delayedBillTimeTax>
+            <accountId>167</accountId>
+            <totalTax>0</totalTax>
+            <totalquantity>0</totalquantity>
+        </delayedBillTimeTax>
+        <isParent>1</isParent>
+        <pretaxTotal>10.00</pretaxTotal>
+        <taxTotal>1.35</taxTotal>
+        <totalAmount>11.35</totalAmount>
+    </accountInvoiceElements>
+    <accountNumber>SR9140</accountNumber>
+    <accountSummary>
+        <adjustmentAmount>0.00</adjustmentAmount>
+        <adjustmentTinAmount>0.00</adjustmentTinAmount>
+        <adjustmentToutAmount>0.00</adjustmentToutAmount>
+        <amountRecieved>0.00</amountRecieved>
+        <balanceForward>678.52</balanceForward>
+        <creditAmount>0.00</creditAmount>
+        <creditBalance>0.00</creditBalance>
+        <creditTinAmount>0.00</creditTinAmount>
+        <creditToutAmount>0.00</creditToutAmount>
+        <currentAdjustmentAmount>0.00</currentAdjustmentAmount>
+        <currentInvoiceAmount>13.31</currentInvoiceAmount>
+        <invoiceAmount>13.31</invoiceAmount>
+        <lateFee>0.00</lateFee>
+        <netAmount>13.31</netAmount>
+        <paymentTinAmount>0.00</paymentTinAmount>
+        <paymentToutAmount>0.00</paymentToutAmount>
+        <previousBalance>678.52</previousBalance>
+        <taxAmount>1.35</taxAmount>
+        <totalAmountDue>691.83</totalAmountDue>
+        <totalOutstanding>691.8300000000</totalOutstanding>
+    </accountSummary>
+    <attributes>
+        <attribute/>
+    </attributes>
+    <billTo>
+        <addressId>168</addressId>
+        <addressLine1>410th ave</addressLine1>
+        <addressLine2>CC</addressLine2>
+        <city>Albany</city>
+        <companyName>Joe Jenkins</companyName>
+        <countryName>UNITED STATES</countryName>
+        <postalCode>10001</postalCode>
+        <state>NEWYORK</state>
+    </billTo>
+    <brightColor>#e4d9e6</brightColor>
+    <businessProfileDetails>
+        <addLine1>100, Main Street</addLine1>
+        <addLine2></addLine2>
+        <city>San Jose</city>
+        <country>UNITED STATES</country>
+        <state>CA</state>
+        <zip>45326</zip>
+    </businessProfileDetails>
+    <childElementPresent>1</childElementPresent>
+    <color>#774182</color>
+    <currency>$</currency>
+    <currencyCode>USD</currencyCode>
+    <currentDate>06/28/2021</currentDate>
+    <customerDetails>
+        <attributes>
+            <attribute>
+                <ACCOUNTING_NAME>SR9140</ACCOUNTING_NAME>
+            </attribute>
+        </attributes>
+        <customerName>Joe Jenkins</customerName>
+        <email>harshak@onebillsoftware.com</email>
+        <firstName>Joe</firstName>
+        <lastName>Jenkins</lastName>
+        <offlinePayment>true</offlinePayment>
+        <phoneNumber>9696969696</phoneNumber>
+    </customerDetails>
+    <cycleEnd>06/16/2021</cycleEnd>
+    <cycleStart>05/16/2021</cycleStart>
+    <documents/>
+    <footer></footer>
+    <height>11in</height>
+    <invoiceDate>06/28/2021</invoiceDate>
+    <invoiceDuedate>06/28/2021</invoiceDuedate>
+    <invoiceElements>
+        <totalAmount>0</totalAmount>
+        <totalDue>0</totalDue>
+        <totalTax>0</totalTax>
+    </invoiceElements>
+    <invoiceFormat>0</invoiceFormat>
+    <invoiceLogo>https://app.onebillsoftware.com/RetrieveLogoServlet.do?party=2&amp;parameter=INVOICE_LOGO&amp;tenant=tarshan</invoiceLogo>
+    <invoiceNumber>TARDELAP133607</invoiceNumber>
+    <marketingImage>https://app.onebillsoftware.com/RetrieveLogoServlet.do?party=2&amp;parameter=INVOICE_MARKETING_IMAGE&amp;tenant=tarshan</marketingImage>
+    <parentTotalAmount>0</parentTotalAmount>
+    <payInvoiceURL>https://app.onebillsoftware.com/payInvoice.do?payReq=dGVuYW50PXRhcnNoYW4mcGFydHlSb2xlSWQ9MiZpbnZvaWNlTnVtYmVyPVRBUkRFTEFQMTMzNjA3&amp;sid=0e5461949c4225bfd188a77802abc9fb4e392610f00cb9656cf848de2aa10a25</payInvoiceURL>
+    <paymentDueInterval>0</paymentDueInterval>
+    <remitTo>
+        <addressLine1>3080 Olcott Street</addressLine1>
+        <addressLine2></addressLine2>
+        <city>Santa Clara</city>
+        <countryName>UNITED STATES</countryName>
+        <postalCode>95094</postalCode>
+        <sellerName>OneBill Inc</sellerName>
+        <state>CA</state>
+    </remitTo>
+    <sponsoredChildPresent>false</sponsoredChildPresent>
+    <suppressedCycles>0</suppressedCycles>
+    <totalAmount>0</totalAmount>
+    <totalCurrentCharge>10.00</totalCurrentCharge>
+    <totalDiscount>0.00</totalDiscount>
+    <width>8.5in</width>
+</invoice>
